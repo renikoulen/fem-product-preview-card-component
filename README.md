@@ -39,4 +39,4 @@ I learnt how to use Picture and srcset to use different images with @media width
 
 ## Author
 
-- Frontend Mentor - https://www.frontendmentor.io/profile/@Reni
+- Frontend Mentor - [https://www.frontendmentor.io/profile/@Reni](https://www.frontendmentor.io/profile/renikoulen)
